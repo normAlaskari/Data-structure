@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1542257868 source:c:\users\norman\desktop\hashtable\hash.cpp
+	"hash.h"
+	<cstdlib>
+
+1542257853 c:\users\norman\desktop\hashtable\hash.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1542257853 source:c:\users\norman\desktop\hashtable\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"hash.h"
+
+1542261468 source:c:\users\norman\desktop\prog 3\ouestion 68\hashtable\hash.cpp
+	"hash.h"
+	<cstdlib>
+
+1542261453 c:\users\norman\desktop\prog 3\ouestion 68\hashtable\hash.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1542261644 source:c:\users\norman\desktop\prog 3\ouestion 68\hashtable\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"hash.h"
+

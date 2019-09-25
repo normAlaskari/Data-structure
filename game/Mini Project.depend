@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1538341214 source:c:\users\norman\desktop\game\game.cpp
+	<iostream>
+	"Player.h"
+	"GamePlay.h"
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+	"List.h"
+
+1538341212 c:\users\norman\desktop\game\player.h
+	<string>
+	<list>
+	"List.h"
+
+1538341218 c:\users\norman\desktop\game\list.h
+	<string>
+
+1538341216 c:\users\norman\desktop\game\gameplay.h
+	"Player.h"
+	"List.h"
+	<list>
+
+1538341215 source:c:\users\norman\desktop\game\gameplay.cpp
+	"GamePlay.h"
+	"Player.h"
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+	<iostream>
+
+1538341217 source:c:\users\norman\desktop\game\list.cpp
+	"List.h"
+	<stddef.h>
+	<iostream>
+
+1538341213 source:c:\users\norman\desktop\game\player.cpp
+	"Player.h"
+	<string>
+
+1538341214 source:c:\users\norman\desktop\prog 3\new folder\game\game.cpp
+	<iostream>
+	"Player.h"
+	"GamePlay.h"
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+	"List.h"
+
+1538341212 c:\users\norman\desktop\prog 3\new folder\game\player.h
+	<string>
+	<list>
+	"List.h"
+
+1538341218 c:\users\norman\desktop\prog 3\new folder\game\list.h
+	<string>
+
+1538341216 c:\users\norman\desktop\prog 3\new folder\game\gameplay.h
+	"Player.h"
+	"List.h"
+	<list>
+
+1538341215 source:c:\users\norman\desktop\prog 3\new folder\game\gameplay.cpp
+	"GamePlay.h"
+	"Player.h"
+	<cstdlib>
+	<ctime>
+	<string>
+	<iomanip>
+	<iostream>
+
+1538341217 source:c:\users\norman\desktop\prog 3\new folder\game\list.cpp
+	"List.h"
+	<stddef.h>
+	<iostream>
+
+1538341213 source:c:\users\norman\desktop\prog 3\new folder\game\player.cpp
+	"Player.h"
+	<string>
+
