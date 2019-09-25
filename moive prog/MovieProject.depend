@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1539656203 source:c:\users\norman\desktop\moive prog\controller.cpp
+	<iostream>
+	<string>
+	"MovieInfo.h"
+	"CustomerInfo.h"
+
+1539655525 c:\users\norman\desktop\moive prog\movieinfo.h
+	<string>
+
+1539636779 c:\users\norman\desktop\moive prog\customerinfo.h
+	<string>
+
+1539636790 source:c:\users\norman\desktop\moive prog\customerinfo.cpp
+	"CustomerInfo.h"
+
+1539655679 source:c:\users\norman\desktop\moive prog\movieinfo.cpp
+	"MovieInfo.h"
+	<iostream>
+	<stddef.h>
+
+1539656203 source:c:\users\norman\desktop\prog 3\moive prog\controller.cpp
+	<iostream>
+	<string>
+	"MovieInfo.h"
+	"CustomerInfo.h"
+
+1539655525 c:\users\norman\desktop\prog 3\moive prog\movieinfo.h
+	<string>
+
+1539636779 c:\users\norman\desktop\prog 3\moive prog\customerinfo.h
+	<string>
+
+1539636790 source:c:\users\norman\desktop\prog 3\moive prog\customerinfo.cpp
+	"CustomerInfo.h"
+
+1539655679 source:c:\users\norman\desktop\prog 3\moive prog\movieinfo.cpp
+	"MovieInfo.h"
+	<iostream>
+	<stddef.h>
+
