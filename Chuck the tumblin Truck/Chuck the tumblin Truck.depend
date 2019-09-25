@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1543462030 source:c:\users\norman\desktop\chuck the tumblin truck\main.cpp
+	<iostream>
+	<windows.h>
+	"linkedlist.h"
+	<string>
+	<ctime>
+	"arrayListType.h"
+
+1543457529 source:c:\users\norman\desktop\chuck the tumblin truck\linkedlist.cpp
+	"linkedlist.h"
+
+1543457354 c:\users\norman\desktop\chuck the tumblin truck\linkedlist.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1543028343 source:c:\users\norman\desktop\chuck the tumblin truck\ques_n_arrays.cpp
+	"Ques_n_Arrays.h"
+
+1543028343 c:\users\norman\desktop\chuck the tumblin truck\ques_n_arrays.h
+
+1543455301 c:\users\norman\desktop\chuck the tumblin truck\arraylisttype.h
+	<iostream>
+	<assert.h>
+
+1543457529 source:c:\users\norman\desktop\prog 3\chuck the tumblin truck\linkedlist.cpp
+	"linkedlist.h"
+
+1543457354 c:\users\norman\desktop\prog 3\chuck the tumblin truck\linkedlist.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1543462030 source:c:\users\norman\desktop\prog 3\chuck the tumblin truck\main.cpp
+	<iostream>
+	<windows.h>
+	"linkedlist.h"
+	<string>
+	<ctime>
+	"arrayListType.h"
+
+1543455301 c:\users\norman\desktop\prog 3\chuck the tumblin truck\arraylisttype.h
+	<iostream>
+	<assert.h>
+
