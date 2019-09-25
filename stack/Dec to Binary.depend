@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540958018 source:c:\users\norman\desktop\new folder (2)\main.cpp
+	<iostream>
+	<stack>
+	"stack.h"
+
+1540958019 c:\users\norman\desktop\new folder (2)\stack.h
+	<assert.h>
+	<iostream>
+	<stack>
+
