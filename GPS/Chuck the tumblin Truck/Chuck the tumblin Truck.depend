@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1543732237 source:c:\users\norman\desktop\chuck the tumblin truck\main.cpp
+	<iostream>
+	<windows.h>
+	"linkedlist.h"
+	<string>
+	<ctime>
+	"arrayListType.h"
+	"Queue.h"
+	"uername.h"
+
+1543501786 source:c:\users\norman\desktop\chuck the tumblin truck\linkedlist.cpp
+	"linkedlist.h"
+
+1543501786 c:\users\norman\desktop\chuck the tumblin truck\linkedlist.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1543028343 source:c:\users\norman\desktop\chuck the tumblin truck\ques_n_arrays.cpp
+	"Ques_n_Arrays.h"
+
+1543028343 c:\users\norman\desktop\chuck the tumblin truck\ques_n_arrays.h
+
+1543501786 c:\users\norman\desktop\chuck the tumblin truck\arraylisttype.h
+	<iostream>
+	<assert.h>
+
+1543501784 source:c:\users\nalaskari\desktop\chuck the tumblin truck\linkedlist.cpp
+	"linkedlist.h"
+
+1543501784 c:\users\nalaskari\desktop\chuck the tumblin truck\linkedlist.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1543508682 source:c:\users\nalaskari\desktop\chuck the tumblin truck\main.cpp
+	<iostream>
+	<windows.h>
+	"linkedlist.h"
+	<string>
+	<ctime>
+	"arrayListType.h"
+	"Queue.h"
+
+1543501784 c:\users\nalaskari\desktop\chuck the tumblin truck\arraylisttype.h
+	<iostream>
+	<assert.h>
+
+1543506195 source:c:\users\nalaskari\desktop\chuck the tumblin truck\queue.cpp
+
+1543507110 c:\users\nalaskari\desktop\chuck the tumblin truck\queue.h
+	<string>
+	<iostream>
+
+1543550612 c:\users\norman\desktop\chuck the tumblin truck\queue.h
+	<string>
+	<iostream>
+
+1543506196 source:c:\users\norman\desktop\chuck the tumblin truck\queue.cpp
+
+1543732017 source:c:\users\norman\desktop\chuck the tumblin truck\uername.cpp
+
+1543731972 c:\users\norman\desktop\chuck the tumblin truck\uername.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<fstream>
+	<iostream>
+	<limits>
+	<string>
+
+1543501786 source:c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\linkedlist.cpp
+	"linkedlist.h"
+
+1543501786 c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\linkedlist.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1543732237 source:c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\main.cpp
+	<iostream>
+	<windows.h>
+	"linkedlist.h"
+	<string>
+	<ctime>
+	"arrayListType.h"
+	"Queue.h"
+	"uername.h"
+
+1543501786 c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\arraylisttype.h
+	<iostream>
+	<assert.h>
+
+1543550612 c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\queue.h
+	<string>
+	<iostream>
+
+1543731972 c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\uername.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<fstream>
+	<iostream>
+	<limits>
+	<string>
+
+1543506196 source:c:\users\norman\desktop\list prog\gps\chuck the tumblin truck\queue.cpp
+
+1543501786 source:c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\linkedlist.cpp
+	"linkedlist.h"
+
+1543501786 c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\linkedlist.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1543732237 source:c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\main.cpp
+	<iostream>
+	<windows.h>
+	"linkedlist.h"
+	<string>
+	<ctime>
+	"arrayListType.h"
+	"Queue.h"
+	"uername.h"
+
+1543501786 c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\arraylisttype.h
+	<iostream>
+	<assert.h>
+
+1543550612 c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\queue.h
+	<string>
+	<iostream>
+
+1543731972 c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\uername.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<fstream>
+	<iostream>
+	<limits>
+	<string>
+
+1543506196 source:c:\users\norman\desktop\prog 3\gps\chuck the tumblin truck\queue.cpp
+

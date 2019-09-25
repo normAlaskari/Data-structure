@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1540681364 source:f:\programming 3\programs\homework\midterm\gps\list.cpp
+	"List.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1540679824 f:\programming 3\programs\homework\midterm\gps\list.h
+	<string>
+
+1540681498 source:f:\programming 3\programs\homework\midterm\gps\main.cpp
+	<iostream>
+	"List.h"
+	<fstream>
+	<stdlib.h>
+
+1540677764 source:c:\users\norman\desktop\gps\list.cpp
+	"List.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1540676224 c:\users\norman\desktop\gps\list.h
+	<string>
+
+1540678494 source:c:\users\norman\desktop\gps\main.cpp
+	<iostream>
+	"List.h"
+	<fstream>
+	<stdlib.h>
+
